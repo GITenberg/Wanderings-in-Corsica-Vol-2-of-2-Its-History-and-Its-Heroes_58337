@@ -1,0 +1,32 @@
+_repo: Wanderings-in-Corsica-Vol-2-of-2-Its-History-and-Its-Heroes_58337
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Muir, Alexander
+    gutenberg_agent_id: '42889'
+    url: http://www.gutenberg.org/2009/agents/42889
+creator:
+  author:
+    agent_name: Gregorovius, Ferdinand
+    aliases:
+    - Gregorovius, Ferdinand Adolf
+    - Gregorovius, Ferdinando
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '9530'
+    url: http://www.gutenberg.org/2009/agents/9530
+description: ''
+gutenberg_issued: '2018-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wanderings in Corsica, Vol. 2 of 2
+
+  Its History and Its Heroes'
+url: http://www.gutenberg.org/ebooks/58337
